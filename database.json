@@ -8,9 +8,15 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
-      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
-      "SimulatePhysics.groovy"
+    "https://gist.github.com/fb20b0d31505b735408361cea1735da8.git:cylinder.groovy": [
+      "https://gist.github.com/fb20b0d31505b735408361cea1735da8.git",
+      "cylinder.groovy"
     ]
+  },
+  "BowlerStudioConfigs": {
+    "firstVersion": "0.19.6",
+    "skinBranch": "master",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "0.19.6"
   }
 }
